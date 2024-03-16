@@ -4,7 +4,7 @@ A custom node library that allows me to do various things with arrays, such as f
 #### Use
 1. Download `index.js` and put it in a folder named something like `ArrayTools`
 2. Use the following code
-```
+```js
 const ArrayTools = require('../ArrayTools.js');
 ArrayTools.filterArray(originalArray,differentArray);
 ArrayTools.replaceObjects(originalArray,replaceArrayWithNames);
